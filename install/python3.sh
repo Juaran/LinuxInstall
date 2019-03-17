@@ -10,7 +10,9 @@ yum -y install openssl-static
 yum -y install xz lzma xz-devel
 yum -y install sqlite sqlite-devel
 yum -y install gdbm gdbm-devel
+yum -y install gcc
 yum -y install tk tk-devel
+
 
 # 下载Python3.6.5
 wget https://www.python.org/ftp/python/3.6.5/Python-3.6.5.tar.xz 
