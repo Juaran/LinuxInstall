@@ -41,6 +41,6 @@ ln -s /usr/local/python3/bin/pip3 /usr/local/bin/pip3
 pip3 install --upgrade pip
 
 # 安装常用
-pip3 install requests
-pip3 install pymysql
-pip3 install lxml
+# pip3 install requests
+# pip3 install pymysql
+# pip3 install lxml
