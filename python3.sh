@@ -29,6 +29,9 @@ cd Python-3.6.5
 # 安装
 make && make install
 
+# 回退
+cd ../
+
 # 清除目录、安装包
 rm -rf Python-3.6.5
 rm -rf Python-3.6.5.tar.xz
